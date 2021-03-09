@@ -7,4 +7,4 @@
   var req=webpackJsonp.push([[],{extra_id:(e,r,t)=>e.exports=t},[["extra_id"]]]);for(let e in req.c)if(req.c.hasOwnProperty(e)){let     r=req.c[e].exports;if(r&&r.__esModule&&r.default)for(let e in r.default)"getToken"===e&&console.log(r.default.getToken())}
   ```
 5. Press enter
-6. Copy the text that got printed out. That is your token. Remember, never give this token to strangers, as they can gain full access to your bot if they gain access to this token!
+6. Copy the text that got printed out. That is your token. Remember, never give this token to strangers, as they can gain full access to your account if they gain access to this token!
